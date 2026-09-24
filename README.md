@@ -11,6 +11,8 @@ The app uses Android WebView to display the website as the primary experience. W
 com.coeric.websiteapp
 
 ## Build
+
+Debug APK builds are produced by GitHub Actions for testing.
 Run:
 gradle assembleDebug
 gradle assembleRelease
